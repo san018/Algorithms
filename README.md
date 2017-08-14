@@ -1,2 +1,2 @@
-# Python
-Algorithms in Python
+# Algorithms
+Algorithms implemented in Python
