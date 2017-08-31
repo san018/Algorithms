@@ -2,7 +2,7 @@
 Time Complexity of Selection Sort - O(n^2)
 
 General Procedure: Takes the i th element in the list and searches for the
-minimum element in the list and swaps it. When done for whole of list, the list
+minimum element in the list and swaps it. When done for whole list, the list
 becomes sorted
 
 '''
