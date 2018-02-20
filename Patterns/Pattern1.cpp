@@ -30,19 +30,19 @@ int main() {
 	cin >> n;
 	for(int i=0;i<n;i++)
 	{
-	    for(int j=n;j>i;j--)
-	    {
-	    	//If condition handles the space after the last number
-          if(j==i+1)
-          {
-            cout << j;
-          }
-          else
-          {
-              cout << j << " ";
-          } 
-	    }
-	    cout << endl;   
+		for(int j=n;j>i;j--)
+		{
+		//If condition handles the space after the last number
+			if(j==i+1)
+			{
+			cout << j;
+			}
+			else
+			{
+			cout << j << " ";
+			} 
+		}
+		cout << endl;
 	}
 	
 }
